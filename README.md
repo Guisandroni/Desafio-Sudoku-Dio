@@ -1,9 +1,12 @@
 
-# Desafio Sudoku DIO
 
-\<p align="center"\>
-\<img src="dio.png" alt="Logo DIO"\>
-\</p\>
+
+<p align="center">
+  <img src="https://hermes.digitalinnovation.one/assets/diome/logo.png" alt="Logo DIO" width="300"/>
+</p>
+
+
+# Desafio Sudoku DIO
 
 Este projeto é uma **implementação em console do clássico jogo Sudoku**, desenvolvido como parte do **Desafio da Digital Innovation One (DIO)**. Ele oferece uma interface interativa para que o usuário possa jogar, inserir números, verificar o status do tabuleiro e resolver o quebra-cabeça.
 
